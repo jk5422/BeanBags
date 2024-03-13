@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Open Shop Grocery were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/mybeanbag
+Data file = C:\xampp\htdocs\mybeanbag/wp-content/uploads/2023/10/demo-content-import-file_2023-10-08__05-43-58.xml
+Widget file = C:\xampp\htdocs\mybeanbag/wp-content/uploads/2023/10/demo-widgets-import-file_2023-10-08__05-43-58.json
+Customizer file = C:\xampp\htdocs\mybeanbag/wp-content/uploads/2023/10/demo-customizer-import-file_2023-10-08__05-43-58.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Primary Sidebar : 
+
+Products list - Products - Imported
+Products by Rating list - No Title - Imported
+Open Shop : Post Slide widget - Latest News - Imported
+
+Footer Top Second Widget : 
+
+Image - No Title - Imported
+
+Footer Below Second Widget : 
+
+Image - No Title - Imported
+
+Footer Widget Area 1 : 
+
+Image - No Title - Imported
+Text - No Title - Imported
+Image - No Title - Imported
+
+Footer Widget Area 2 : 
+
+Products list - Products - Imported
+
+Footer Widget Area 3 : 
+
+Product Categories - Product categories - Imported
+
+Footer Widget Area 4 : 
+
+Text - Contact Details - Imported
+
+WooCommerce Sidebar : 
+
+Products list - Products - Imported
+Product Categories - Product categories - Imported
+Filter Products by Price - Filter by price - Imported
+
+Product Sidebar : 
+
+Products list - Products - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
